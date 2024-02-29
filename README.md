@@ -5,7 +5,7 @@
 
 ```
 We had to create our own shell script (like bash) in Linux environment using C/C++.
-Our shell should have function like:
+Our shell should have the following functions:
 -I/O Redirection(<, >, >>)
 -Pipes
 -Execution commands running on background
