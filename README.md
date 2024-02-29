@@ -25,5 +25,6 @@ We give as inputs:
 -pollLog
 -pollStats
 
-The program consists of a Master thread and the Workers treads,its own with their tasks.We had to synchronize the Master with the workers, without having BUSY-WAITING through the buffer
+The program consists of a Master thread and the Workers treads,its own with their tasks.
+We had to synchronize the Master with the workers, without having BUSY-WAITING through the buffer
 ```
