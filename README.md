@@ -4,5 +4,5 @@
 # Assignment 1
 
 ```
-hello
+We had to create our own shell script (like bash)
 ```
