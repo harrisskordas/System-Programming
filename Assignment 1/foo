@@ -1,0 +1,16 @@
+aliases.c
+aliases.h
+build
+deliverables
+dist
+execute.c
+execute.h
+foo
+history.c
+history.h
+main.c
+Makefile
+nbproject
+readme.md
+tools.c
+tools.h
