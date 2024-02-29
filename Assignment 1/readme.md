@@ -4,7 +4,7 @@
 make
 ```
 
-# Execution Command:
+# Execution Command
 
 ```
 ./mysh
